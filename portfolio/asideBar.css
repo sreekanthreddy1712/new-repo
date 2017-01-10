@@ -1,0 +1,161 @@
+﻿
+.asideBar {
+    box-shadow: 5px 5px 5px #d8d8d8;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    width: 25%;
+}
+
+
+.header {
+    background-color: #50adad;
+    float: inherit;
+    height: 100px;
+    margin: -1px 0 0;
+    width: 100%;
+}
+.ProfilePic {
+    background-color: white;
+    background-image: url("Sreekanth.jpg");
+    border-radius: 50px;
+    float: left;
+    height: 75px;
+    margin: 13px 0 0 13px;
+    width: 75px;
+    background-size:75px auto;
+    background-repeat:no-repeat;
+}
+#text {
+    color: #ffffff;
+    float: left;
+    font-family: "Times New Roman",Times,serif;
+    font-weight: bold;
+    height: 80px;
+    margin: 20px 0 0 10px;
+    text-align: right;
+    width: 229px;
+}
+.body {
+    color: #696969;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.body a {
+    color: #696969;
+    text-decoration: none;
+}
+.body:hover {
+    border: 1px solid #c2c2c2;
+    box-shadow: 0 0 5px;
+}
+
+
+
+.HEADING {
+    background-color: #50adad;
+    border: 1px solid #50adad;
+    box-shadow: -1px 0 0 #50adad;
+    color: white;
+    float: left;
+    font-size: 40px;
+    font-weight: bold;
+    height: 100px;
+    margin: -1px 0 0 -30px;
+    padding: 20px 0 0;
+    position: sticky;
+    text-align: center;
+    width: 1005px;
+}
+.rightContainer{
+    
+    height:3000px;
+    width:975px;
+    float:right;
+}
+.data{
+    
+    width:100%;
+    height:650px;
+    float:left;
+}
+.headings {
+    color: #000000;
+    float: left;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 25px;
+}
+
+
+.techImages {
+   
+    float: left;
+    height: 200px;
+    width: 100%;
+}
+
+.images {
+    border: 1px solid #7d6969;
+    box-shadow: 2px 2px 2px #7c7c7c;
+    color: #7d6969;
+    height: 160px;
+    margin: 20px 5px 0 40px;
+    width: 130px;
+    float:left;
+}
+
+.imgName {
+    font-size: 25px;
+     margin: -8px 0 0;
+    text-align: center;
+}
+
+.html5{background-image: url("images/web_technologies/html5-logo.png");}
+.css3{background-image: url("images/web_technologies/css3-logo.png");}
+.javaScript{background-image: url("images/web_technologies/javascript-logo.png");}
+.php{background-image: url("images/web_technologies/php-logo.png");}
+.css{background-image: url("images/web_technologies/css-logo.png");}
+
+.angularjs{background-image: url("images/framework/angular-logo.png");}
+.jQuery{background-image: url("images/framework/jQuery-logo.GIF");}
+.bootstrap{background-image: url("images/framework/Boostrap-logo.png");}
+.backbone{background-image: url("images/framework/backbone-logo.png");}
+.react{background-image: url("images/framework/react-logo.png");}
+.NodeJS{background-image: url("images/framework/NodeJS-logo.png");}
+.ExpressJS{background-image: url("images/framework/ExpressJS-logo.png");}
+
+.DreamWeaver{background-image: url("images/ide & tools/DreamWeaver-logo.png");}
+.Eclipse{background-image: url("images/ide & tools/Eclipse-logo.png");}
+.NOTEPAD{background-image: url("images/ide & tools/NOTEPAD_LOGO.jpg");}
+.VisualStudio{background-image: url("images/ide & tools/VisualStudio-logo.png");}
+.Sublime{background-image: url("images/ide & tools/Sublime-Logo.png");}
+
+.oracledata{background-image: url("images/databases/oracledata-logo.png");}
+.mongo{background-image: url("images/databases/mongo-logo.png");}
+.mysql{background-image: url("images/databases/mysql-logo.png");}
+
+.Grunt{background-image: url("images/ide & tools/Grunt-logo.png");}
+.Gulp{background-image: url("images/ide & tools/Gulp-logo.png");}
+.Less{background-image: url("images/ide & tools/Less-logo.png");}
+.Sass{background-image: url("images/ide & tools/Sass-logo.png");}
+
+.images:hover{box-shadow: 8px 8px 8px #7c7c7c;
+
+}
+.subImage {
+    
+    background-repeat: no-repeat;
+    background-size: 125px auto;
+    height: 85%;
+    margin: 0 3px;
+    width: 125px;
+
+}
+#fbContact{
+
+}
+
